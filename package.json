@@ -16,7 +16,7 @@
     "react-dom": "^18.3.1"
   },
   "lint-staged": {
-    "*.{js,jsx,ts,tsx}": "eslint --fix --ext ts,tsx,js,jsx"
+    "*.{js,jsx,ts,tsx}": "eslint --fix"
   },
   "devDependencies": {
     "@types/node": "^20.14.11",
